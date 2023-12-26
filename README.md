@@ -23,7 +23,7 @@ export.
 
 These scripts will accept raw CMS Cost Report data from the HCRIS 
 (Healthcare Cost Report Information System). They produce a dataframe 
-combining the data, add hospital identifying information from CMS. 
+combining the data, and hospital identifying information from CMS. 
 Functions have been provided to count or sort the dataframe. 
 
 Please download necessary HOSPITAL-2010 data sets from CMS HCRIS 
