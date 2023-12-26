@@ -1,8 +1,8 @@
-This exercise was a part of my technical interview for Heath Data Atlas.
+The code was removed from the public domain following its adoption into 
+a proprietary ETL toolkit.
 
-The code was removed from the public domain following its adoption into our proprietary ETL toolkit.
+The documentation has been left for users to explore and discuss.
 
-The discussion has been left for user to explore and inquire about.
 # HCRIS-Documentation
 
 Hospitals submit annual worksheets detailing their FY cost center data. 
